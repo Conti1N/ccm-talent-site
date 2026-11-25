@@ -1,0 +1,17 @@
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Google-Extended
+User-agent: Applebot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.conticonnects.com/sitemap.xml
